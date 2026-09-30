@@ -1,0 +1,11 @@
+{
+  "source_dir": "/path/to/your/markdown/documents",
+  "drive_dir": "/path/to/Google Drive/My Drive/BrandManagerAI",
+  "include_folders": [
+    "Brand Building",
+    "Consumer Insights",
+    "Training"
+  ],
+  "blocked_terms": "CompanyName|BrandA|BrandB|InternalProgram",
+  "company_name": "Company Name"
+}

@@ -1,0 +1,15 @@
+# Source-derived material stays private: flashcards, passages, datasets, eval answers, batch files
+data/
+
+# Notebook run artifacts and local clutter
+notebooks/*_files/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Model weights and embeddings, in case any are ever copied here
+*.safetensors
+*.npy
+*.pt
+config.local.json
